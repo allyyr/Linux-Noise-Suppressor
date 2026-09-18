@@ -1,5 +1,5 @@
 # Linux Noise Suppressor
-
+ps: idont use linux everyday LOL but i enjoy using it
 A lightweight Linux desktop app that reduces microphone background noise in
 real time using **RNNoise**, **LADSPA**, and **PipeWire** — free, local,
 no cloud, no subscription. The Linux equivalent of Krisp.
