@@ -9,7 +9,7 @@ reads on startup, then restarts the user's PipeWire services to apply it.
 That's a deliberate simplicity trade-off: it means toggling suppression
 on/off briefly interrupts all audio (a second or two), but it avoids
 writing and maintaining a native PipeWire client, which is a much bigger
-undertaking. See README for the "next steps" note on hot-reloading instead.
+undertaking. See README for the "next steps" note on hot-reloading insteadd.
 """
 
 import json
